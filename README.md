@@ -30,17 +30,17 @@ https://randomuser.me/api/?results=10&gender=male ou https://randomuser.me/api/?
 
 # Ficheiros
 
-public/index.html - Ficheiro da página principal.
-src/index.js - Ficheiro onde é indicado para fazer o render da App na div "root" do index.html.
-src/App.js - Ficheiro onde é feito o render dos componentes das cards e do botão na App.
-src/components - Ficheiros da componente das cards e do botão.
-src/tests/getUsers.test.js - Ficheiro de testes.
-package.json - Ficheiro com dependencias do projecto.
+- public/index.html - Ficheiro da página principal.
+- src/index.js - Ficheiro onde é indicado para fazer o render da App na div "root" do index.html.
+- src/App.js - Ficheiro onde é feito o render dos componentes das cards e do botão na App.
+- src/components - Ficheiros da componente das cards e do botão.
+- src/tests/getUsers.test.js - Ficheiro de testes.
+- package.json - Ficheiro com dependencias do projecto.
 
 # Testado com
 
-Reactjs 17.0.2
-Node.js v14.17.0
-Npm 6.14.13
-Firefox 89.0
-Windows 10 20h2
+- Reactjs 17.0.2
+- Node.js v14.17.0
+- Npm 6.14.13
+- Firefox 89.0
+- Windows 10 20h2
